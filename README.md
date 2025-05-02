@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=250&section=header&text=Hey%20there!%20I'm%20Rajendra%20Prasad%20Rout%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Lobster"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+|+Cloud+Explorer+|+Performance+Optimizer;Building+robust,+scalable+systems+everyday."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Backend+Developer+|+Cloud+Explorer+|+Performance+Optimizer;Building+robust,+scalable+systems+everyday."/>
 </p>
 
 ---
@@ -56,6 +56,19 @@ Hi! I'm **Rajendra**, a passionate and results-oriented backend developer with *
 
 ---
 
+### 📜 Certifications
+
+> Because flexing your skills with paper 🧾 (or pixels) is always a good move 😎
+
+<p>
+  <a href="https://www.hackerrank.com/certificates/9d67e88ab31e" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank%20C%23%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/certificates/bccd7544442d" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank%20Java%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 My Personal Projects
@@ -99,6 +112,21 @@ Bringing the news to your screen faster than a speeding bullet 🏃💨, powered
 So, if you're wondering why the code isn't finished yet, well, it's because I prefer **continuous improvement** over perfection. Expect **plenty of commits**, **new features**, and some **magic** (aka debugging) in the near future. 💻✨
 
 ---
+
+### 📈 Growth Tracker – Skill Improvement Journey
+
+> 🚀 I'm always in **"Level Up" mode** — learning, building, and grinding daily!
+
+| Skill                         | Progress                                                                 |
+|------------------------------|--------------------------------------------------------------------------|
+| 🧠 **DSA**                   | `#GrindNeverStops` – Solving problems like Batman solves crimes 🦇         |
+| 🐍 **Python**                | Just started — baby steps, but the snake is growing! 🐍                   |
+| 🅰️ **Angular**              | Still learning — slowly falling in love with components ❤️              |
+| 🛡️ **Spring Security** (Advanced) | Deep diving into security filters like a digital bouncer at every endpoint 🚪🛡️ |
+
+
+> _Stay tuned — this dev is under active transformation!_
+
 
 ## 📬 Let's Connect!
 
